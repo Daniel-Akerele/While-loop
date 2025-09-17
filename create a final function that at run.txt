@@ -1,0 +1,2 @@
+create a final function that at run time it prints i'm a dog then ask user to input a number then if 1 print i'm  cat and if 2 dog 3 is elephant  
+POLYMORPHISM using interfaces

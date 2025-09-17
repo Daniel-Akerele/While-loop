@@ -1,7 +1,7 @@
 // LooptillZero.java
 import java.util.Scanner; 
 public class LooptillZero {
-   public static void main(String[] args) {
+   spublic static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);         
         int sum = 0;
         int input;   
